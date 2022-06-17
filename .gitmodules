@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gridsampler"]
+	path = gridsampler
+	url = https://github.com/markheckmann/gridsampler
+	shallow = true
+	registered = true
+[submodule "OpenRepGrid"]
+	path = OpenRepGrid
+	url = https://github.com/markheckmann/openrepgrid
+	shallow = true
+	registered = true
+[submodule "OpenRepGrid.ic"]
+	path = OpenRepGrid.ic
+	url = https://github.com/markheckmann/openrepgrid.ic
+	shallow = true
+	registered = true
