@@ -1,14 +1,14 @@
 [
   {
-    "package": "OpenRepGrid.ic",
-    "oncran": true
-  },
-  {
     "package": "gridsampler",
     "oncran": true
   },
   {
     "package": "OpenRepGrid",
+    "oncran": true
+  },
+  {
+    "package": "OpenRepGrid.ic",
     "oncran": true
   }
 ]
