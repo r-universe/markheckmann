@@ -18,3 +18,8 @@
 	url = https://github.com/markheckmann/openrepgrid.ic
 	shallow = true
 	registered = true
+[submodule "ryouready"]
+	path = ryouready
+	url = https://github.com/markheckmann/ryouready
+	shallow = true
+	registered = true

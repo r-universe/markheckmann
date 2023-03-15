@@ -10,5 +10,9 @@
   {
     "package": "OpenRepGrid.ic",
     "oncran": true
+  },
+  {
+    "package": "ryouready",
+    "oncran": true
   }
 ]
