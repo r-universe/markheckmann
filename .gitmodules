@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gridsampler"]
-	path = gridsampler
-	url = https://github.com/markheckmann/gridsampler
 [submodule "OpenRepGrid"]
 	path = OpenRepGrid
 	url = https://github.com/markheckmann/openrepgrid
 [submodule "OpenRepGrid.ic"]
 	path = OpenRepGrid.ic
 	url = https://github.com/markheckmann/openrepgrid.ic
+[submodule "gridsampler"]
+	path = gridsampler
+	url = https://github.com/markheckmann/gridsampler
